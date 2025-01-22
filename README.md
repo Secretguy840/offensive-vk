@@ -1,17 +1,3 @@
-<!-- Copyright by Vedansh (offensive-vk) 2020 - Present. All Rights Reserved. -->
-<!-- This Readme Was Specially Handcrafted by @offensive-vk (https://github.com/offensive-vk) -->
-<!-- This Readme is translated regularly in 7 Major Languages of the world. -->
-
-<div align="center">
-   <a href="https://github.com/offensive-vk">
-      <picture>
-           <source media="(prefers-color-scheme: dark)" srcset="./assets/mine-dark.svg" height="250" width="550" />
-           <source media="(prefers-color-scheme: light)" srcset="./assets/mine-light.svg" height="250" width="550" />
-           <img alt="this is art" src="./assets/default.svg" height="250" width="550" />
-     </picture>
-   </a>
-</div>
-
 <!--
 [![🦅 Mirror Sync](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/mirror.yml)
 [![📃 Update Recent Activity](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/recent.yml)
@@ -193,30 +179,6 @@
      </picture>
     </div>
 </details>
-
-<details>
-    <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
-
-[![⛅ Docker - Build Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-image.yml)
-[![🌨️ Docker & GHCR - Publish Image](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/docker-publish.yml)
-[![⭐ Generate Starred Repo List](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/starred.yml)
-[![🤖 Automated Issue - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-issue.yml)
-[![🤖 Automated Pull Request - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-pr.yml)
-[![🏷️ Automated Label - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-label.yml)
-[![📊 Generates Metrics](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/metrics.yml)
-[![👻 Mark Stale Issues and PRs](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/stale.yml)
-[![🗃️ Automated Project - Hamster 🐹](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml/badge.svg)](https://github.com/offensive-vk/offensive-vk/actions/workflows/auto-project.yml)
-
-**Wanna See Everything?** [Click Here](https://github.com/offensive-vk/offensive-vk/actions)
-
-**Wanna See Workflow File?** [Click Here](https://github.com/offensive-vk/offensive-vk/tree/master/WORKFLOWS.md)
-
-**Wanna See Repository Stats?** [Click Here](https://github.com/offensive-vk/offensive-vk/tree/master/STATS.md)
-
-</details>
-
-***
-
 <p align="center">
   <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
   <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
